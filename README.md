@@ -10,6 +10,10 @@
 <a href="https://twitter.com/andrebh">
     <img src="https://img.shields.io/twitter/follow/andrebh?label=follow%20me&style=social"
       alt="twitter-link" />
+          <!-- Github -->
+<a href="https://github.com/duarch">
+    <img src="https://img.shields.io/github/followers/duarch?label=be%20the%20first&style=social"
+      alt="Github-follow-icon" />
     
     
 
