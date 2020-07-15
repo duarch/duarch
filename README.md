@@ -1,3 +1,19 @@
+<h1 align="center">D U A R C H</h1>
+<!-- Inspired on choo here https://github.com/choojs/choo -->
+<div align="center">
+  :steam_locomotive::train::train::train::train::train:
+</div>
+<div align="center">
+  <strong>Fun programming life promoter</strong>
+</div>
+<div align="center">
+  A <code>Newbie</code> full of crazy ideas to share with the world!!!
+</div>
+
+<br />
+
+<div align="center">  
+  
   <!-- Money Status -->
 <a href="https://www.patreon.com/duarch">
     <img src="https://img.shields.io/badge/license-not--for--sale-green"
@@ -14,7 +30,7 @@
 <a href="https://github.com/duarch">
     <img src="https://img.shields.io/github/followers/duarch?label=be%20the%20first&style=social"
       alt="Github-follow-icon" />
-    
+  </div>
     
 
 ### Hi there 👋
