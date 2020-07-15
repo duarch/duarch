@@ -6,6 +6,10 @@
 <a href="https://www.patreon.com/duarch">
     <img src="https://img.shields.io/badge/version-v40.0-blue"
       alt="patreonlink" />
+        <!-- Twitter -->
+<a href="https://twitter.com/andrebh">
+    <img src="https://img.shields.io/twitter/follow/andrebh?label=follow%20me&style=social"
+      alt="twitter-link" />
     
     
 
