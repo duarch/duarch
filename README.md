@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about the bible 
 - 📫 How to reach me: I'm lockdown you can't reach me now (but I receive calls, e-mail, tweets, ...)
 - 😄 Pronouns: He/Him (His but I don't have many stuff)
+               You can call me André, Andy, Duarch, or Hey guy come here!
 - ⚡ Fun fact: I'm a cuber solver
 
