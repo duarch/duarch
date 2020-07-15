@@ -1,7 +1,13 @@
-
+  <!-- Money Status -->
 <a href="https://www.patreon.com/duarch">
     <img src="https://img.shields.io/badge/license-not--for--sale-green"
       alt="patreonlink" />
+      <!-- Age Status -->
+<a href="https://www.patreon.com/duarch">
+    <img src="https://img.shields.io/badge/version-v40.0-blue"
+      alt="patreonlink" />
+    
+    
 
 ### Hi there 👋
 
