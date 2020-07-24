@@ -30,17 +30,12 @@
 <a href="https://github.com/duarch">
     <img src="https://img.shields.io/github/followers/duarch?label=be%20the%20first&style=social"
       alt="Github-follow-icon" />
+          <!-- DEV profile -->
+<a href="https://dev.to/duarch">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="André Duarte's DEV Profile" height="30" width="30">
   </div>
- <a href="https://dev.to/duarch">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="André Duarte's DEV Profile" height="30" width="30">
-</a>
-  <!-- Markdown option-->
-  [![André Duarte's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/duarch)
+
   
-  <!--Fontawesome option-->
-  <a href="https://dev.to/duarch">
-  <i class="fab fa-dev" title="duarch's DEV Profile"></i>
-</a>
     
 
 ### Hi there 👋
