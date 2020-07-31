@@ -28,14 +28,12 @@
       alt="twitter-link" />
           <!-- Github -->
 <a href="https://github.com/duarch">
-    <img src="https://img.shields.io/github/followers/duarch?label=be%20the%20first&style=social"
+    <img src="https://img.shields.io/github/followers/duarch?label=lunatics&style=plastic"
       alt="Github-follow-icon" />
           <!-- DEV profile -->
 <a href="https://dev.to/duarch">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="André Duarte's DEV Profile" height="30" width="30">
   </div>
-
-  
     
 
 ### Hi there 👋
