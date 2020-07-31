@@ -28,7 +28,7 @@
       alt="twitter-link" />
           <!-- Github -->
 <a href="https://github.com/duarch">
-    <img src="https://img.shields.io/github/followers/duarch?label=lunatics"
+    <img src="https://img.shields.io/github/followers/duarch?label=lunatics&style=social"
       alt="Github-follow-icon" />
           <!-- DEV profile -->
 <a href="https://dev.to/duarch">
