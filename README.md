@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css"/>
 <h1 align="center"><a style="text-decorations:none; color:inherit;" href="https://duar.ch" target="_blank" rel="noreferrer noopener"> ᕲ ᑌ ᗩ ᖇ.ᑕ ᕼ </a></h1>
 <!-- <h1 align="center"> ᗪ ᑌ ᗩ ᖇ.ᑕ ᕼ </h1> -->
 <!-- <h1 align="center"> 𝕯 𝖀 ᗩ ᖇ.ᑕ ᕼ </h1> -->
