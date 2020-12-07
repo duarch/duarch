@@ -1,4 +1,4 @@
-<h1 align="center">D U A R C H</h1>
+<h1 align="center"> ◗ ☋ ꍏ ☈ ☾ ♄ </h1>
 <!-- Inspired on choo here https://github.com/choojs/choo -->
 <div align="center">
   :steam_locomotive::train::train::train::train::train:
