@@ -12,7 +12,7 @@
   <strong>Fun programming life promoter</strong>
 </div>
 <div align="center">
-  A <code>Newbie</code> full of crazy ideas to share with the world!!!
+  A <code>&lt;Dev&gt;</code> full of crazy ideas to share with the world!!!
 </div>
 
 <br />
