@@ -1,5 +1,16 @@
-<link rel="stylesheet" href="style.css"/>
-<h1 align="center"><a href="https://duar.ch" target="_blank"> ᕲ ᑌ ᗩ ᖇ.ᑕ ᕼ </a></h1>
+<div align="center">
+ <a href="https://duar.ch" target="_blank"></h1><img src="assets/duarch.jpg" alt="heropic"></a>
+</div>
+
+
+
+
+
+
+
+<!-- Qualquer coisa voltar com esse -->
+<!-- <link rel="stylesheet" href="style.css"/> -->
+<!-- <h1 align="center"><a href="https://duar.ch" target="_blank"> ᕲ ᑌ ᗩ ᖇ.ᑕ ᕼ </a></h1> -->
  
 <!--rel="noreferrer noopener"-->
 <!-- <h1 align="center"> ᗪ ᑌ ᗩ ᖇ.ᑕ ᕼ </h1> -->
