@@ -3,13 +3,19 @@
 
 
 
+<!--  ᕲᘱᐅᑓᘮᕰᐁᑌᕱᐃᗋᗩᖇᘓᘳᑕᕳᕼ-->
 
+<!-- <h1 align="center">ᑓ ᑌ ᗩ ᖇ.ᘓ ᕼ</h1> -->
+<!-- <h1 align="center">ᐅ ᐁ ᐃ ᖇ.ᐸ ᕼ</h1> -->
+<!-- <h1 align="center">ᘱ ᘮ ᐃ ᖇ.ᘳ ᕼ</h1> -->
+<!-- <h1 align="center">ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ</h1> -->
 
+<!-- Letras disponíveis em https://en.wiktionary.org/wiki/Appendix:Unicode/Unified_Canadian_Aboriginal_Syllabics -->
 
+<!-- Sempre fico na dúvida entre essa duas opções ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ e ᕲ ᑌ ᗩ ᖇ.ᑕ ᕼ  -->
 
-<!-- Qualquer coisa voltar com esse -->
 <link rel="stylesheet" href="style.css"/>
-<h1 align="center"><a href="https://duar.ch" target="_blank"> ᕲ ᑌ ᗩ ᖇ.ᑕ ᕼ </a></h1>
+<h1 align="center"><a href="https://duar.ch" target="_blank"> ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ </a></h1>
  
 <!--rel="noreferrer noopener"-->
 <!-- <h1 align="center"> ᗪ ᑌ ᗩ ᖇ.ᑕ ᕼ </h1> -->
