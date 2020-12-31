@@ -60,7 +60,10 @@
 <a href="https://dev.to/duarch">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="André Duarte's DEV Profile" height="30" width="30">
   </div>
-    
+   
+
+
+
 
 ### Hi there 👋
 
@@ -77,3 +80,6 @@ Here are some ideas to get you started:
                You can call me André, Andy, Duarch, or Hey guy come here!
 - ⚡ Fun fact: I'm a cuber
 
+<div align="center">
+<a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+ </div>
