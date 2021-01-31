@@ -81,5 +81,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a cuber
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108.5px !important;" ></a>
  </div>
