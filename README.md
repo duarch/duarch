@@ -58,9 +58,10 @@
   <div align="center"> 
           <!-- DEV profile -->
 <a href="https://dev.to/duarch">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="André Duarte's DEV Profile" height="30" width="30"></div>
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="André Duarte's DEV Profile" height="30" width="30"></a></div>
    
-<div align="center">
+
+
 
 ### Now I'm ...
 
