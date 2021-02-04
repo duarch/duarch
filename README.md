@@ -58,9 +58,9 @@
   <div align="center"> 
           <!-- DEV profile -->
 <a href="https://dev.to/duarch">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="André Duarte's DEV Profile" height="30" width="30">
-  </div>
-
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="André Duarte's DEV Profile" height="30" width="30"></div>
+   
+<div align="center">
 
 ### Now I'm ...
 
@@ -69,6 +69,8 @@
 - :moyai: Struggling with [Vim](https://www.vim.org/)
 - :shipit: How to reach me: I'm lockdown you can't literally [reach me](https://www.linkedin.com/in/andreduarte/) now (but I receive calls, e-mail, tweets, ...)
 - :ice_cube: Fun fact: I'm a [cuber](https://www.worldcubeassociation.org/) 
+
+</div>
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108.5px !important;" ></a>
