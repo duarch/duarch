@@ -62,11 +62,11 @@
   </div>
 
 ### Now I'm ...
-- :books: currently learning Javascript
-- :octocat: looking to collaborate on go projects
-- :moyai: I’m looking for help with Vim
-- :bowtie: How to reach me: I'm lockdown you can't reach me now (but I receive calls, e-mail, tweets, ...)
-- :shipit: Fun fact: I'm a cuber
+- :books: currently studing Javascript on [FCC](https://www.freecodecamp.org/duarch)
+- :octocat:looking to collaborate on [GO](https://golang.org/) projects
+- :moyai: I’m looking for help with [Vim](https://www.vim.org/)
+- :shipit: How to reach me: I'm lockdown you can't [reach me](https://www.linkedin.com/in/andreduarte/) now (but I receive calls, e-mail, tweets, ...)
+- :ice_cube: Fun fact: I'm a [cuber](https://www.worldcubeassociation.org/) 
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108.5px !important;" ></a>
