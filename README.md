@@ -61,7 +61,9 @@
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="André Duarte's DEV Profile" height="30" width="30">
   </div>
 
+
 ### Now I'm ...
+
 - :books: Currently studing Javascript on [FCC](https://www.freecodecamp.org/duarch)
 - :octocat: Collaborating on [GO](https://golang.org/) projects
 - :moyai: Struggling with [Vim](https://www.vim.org/)
