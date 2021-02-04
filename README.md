@@ -62,10 +62,10 @@
   </div>
 
 ### Now I'm ...
-- :books: currently studing Javascript on [FCC](https://www.freecodecamp.org/duarch)
-- :octocat:looking to collaborate on [GO](https://golang.org/) projects
-- :moyai: I’m looking for help with [Vim](https://www.vim.org/)
-- :shipit: How to reach me: I'm lockdown you can't [reach me](https://www.linkedin.com/in/andreduarte/) now (but I receive calls, e-mail, tweets, ...)
+- :books: Currently studing Javascript on [FCC](https://www.freecodecamp.org/duarch)
+- :octocat: Collaborating on [GO](https://golang.org/) projects
+- :moyai: Struggling with [Vim](https://www.vim.org/)
+- :shipit: How to reach me: I'm lockdown you can't literally [reach me](https://www.linkedin.com/in/andreduarte/) now (but I receive calls, e-mail, tweets, ...)
 - :ice_cube: Fun fact: I'm a [cuber](https://www.worldcubeassociation.org/) 
 
 <div align="center">
