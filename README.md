@@ -60,12 +60,13 @@
 <a href="https://dev.to/duarch">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="André Duarte's DEV Profile" height="30" width="30">
   </div>
-   
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on go projects
-- 🤔 I’m looking for help with Vim
-- 📫 How to reach me: I'm lockdown you can't reach me now (but I receive calls, e-mail, tweets, ...)
-- ⚡ Fun fact: I'm a cuber
+
+### Now I'm ...
+- :books: currently learning Javascript
+- :octocat: looking to collaborate on go projects
+- :moyai: I’m looking for help with Vim
+- :bowtie: How to reach me: I'm lockdown you can't reach me now (but I receive calls, e-mail, tweets, ...)
+- :shipit: Fun fact: I'm a cuber
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108.5px !important;" ></a>
