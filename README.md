@@ -75,5 +75,5 @@
 
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="https://camo.githubusercontent.com/79f555f65fd6d3a73cc3b894f9c77c9318d0a7ab03e77270a03c9310de7ab6e8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f617269616c2d626c75652e706e67"" alt="Buy Me A Coffee" style="max-width:20%"></a>
+<a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="https://camo.githubusercontent.com/79f555f65fd6d3a73cc3b894f9c77c9318d0a7ab03e77270a03c9310de7ab6e8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f617269616c2d626c75652e706e67" alt="Buy Me A Coffee" style="max-width=50%"></a>
  </div>
