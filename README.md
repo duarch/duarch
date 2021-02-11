@@ -75,5 +75,5 @@
 
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="assets/coffee.png" alt="Buy Me A Coffee" style="width=10px"></a>
+<a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="assets/coffee.png" alt="Buy Me A Coffee" style="width=50%"></a>
  </div>
