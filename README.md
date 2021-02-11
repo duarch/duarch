@@ -74,5 +74,11 @@
 </div>
 
 <div align="center">
+   ![Image](https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png =100x50)
+ 
+</div>
+
+
+<div align="center">
 <a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108.5px !important;" ></a>
  </div>
