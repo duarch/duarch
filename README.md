@@ -73,7 +73,10 @@
 
 </div>
 
-![Duarch's github stats](https://github-readme-stats.vercel.app/api?username=duarch&hide_title=true&theme=aura)
+ 
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/duarch?cardType=github&theme=solarized-dark)](https://git.io/awesome-stats-card)
+ 
+<!-- ![Duarch's github stats](https://github-readme-stats.vercel.app/api?username=duarch&hide_title=true&theme=aura)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duarch&layout=compact&hide_title=true&theme=aura)
 
 <div align="center">
