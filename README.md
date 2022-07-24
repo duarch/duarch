@@ -73,8 +73,8 @@
 
 </div>
 
-![Duarch's github stats](https://github-readme-stats.vercel.app/api?username=duarch&hide_title=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duarch&layout=compact&hide_title=true&theme=dark)
+![Duarch's github stats](https://github-readme-stats.vercel.app/api?username=duarch&hide_title=true&theme=aura)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duarch&layout=compact&hide_title=true&theme=aura)
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="assets/coffee.png" alt="Buy Me A Coffee" style="width=50%"></a>
