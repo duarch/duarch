@@ -1,5 +1,6 @@
 <!-- <div align="center"> -->
 <!-- <a href="https://duar.ch" target="_blank"></h1><img src="assets/duarch.jpg" alt="heropic"></a> </div> -->
+<a href="https://duar.ch" target="_blank"><img src="https://user-images.githubusercontent.com/42032253/185812906-9ba5ace5-dbe0-45e2-ac57-7e374a5cf781.png" alt="ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ" style="width=20%"></a>
 
 
 
@@ -15,7 +16,7 @@
 <!-- Sempre fico na dúvida entre essa duas opções ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ e ᕲ ᑌ ᗩ ᖇ.ᑕ ᕼ  -->
 
 <link rel="stylesheet" href="style.css"/>
-<h1 align="center"><a href="https://duar.ch" target="_blank"> ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ </a></h1>
+<!-- <h1 align="center"><a href="https://duar.ch" target="_blank"> ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ </a></h1> -->
  
 <!--rel="noreferrer noopener"-->
 <!-- <h1 align="center"> ᗪ ᑌ ᗩ ᖇ.ᑕ ᕼ </h1> -->
@@ -80,5 +81,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duarch&layout=compact&hide_title=true&theme=aura)
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="assets/coffee.png" alt="Buy Me A Coffee" style="width=50%"></a>
+<a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="assets/coffee.png" alt="Buy Me A Coffee" style="width=20%"></a>
  </div>
