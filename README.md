@@ -45,7 +45,7 @@
       alt="patreonlink" />
       <!-- Age Status -->
 <a href="https://www.patreon.com/duarch">
-    <img src="https://img.shields.io/badge/version-v42.0-blue"
+    <img src="https://img.shields.io/badge/version-v45.0-blue"
       alt="patreonlink" />
         <!-- Twitter -->
 <a href="https://twitter.com/andrebh">
