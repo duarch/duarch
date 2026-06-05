@@ -45,7 +45,7 @@
       alt="patreonlink" />
       <!-- Age Status -->
 <a href="https://www.patreon.com/duarch">
-    <img src="https://img.shields.io/badge/version-v45.0-blue"
+    <img src="https://img.shields.io/badge/version-v46.0-blue"
       alt="patreonlink" />
         <!-- Twitter -->
 <a href="https://twitter.com/andrebh">
@@ -69,7 +69,7 @@
 - :books: Currently studing Javascript on [FCC](https://www.freecodecamp.org/duarch)
 - :octocat: Collaborating on [GO](https://golang.org/) projects
 - :moyai: Struggling with [Vim](https://www.vim.org/)
-- :shipit: How to reach me: I'm lockdown you can't literally [reach me](https://www.linkedin.com/in/andreduarte/) now (but I receive calls, e-mail, tweets, ...)
+- :shipit: How to reach me [reach me](https://www.linkedin.com/in/andreduarte/) 
 - :ice_cube: Fun fact: I'm a [cuber](https://www.worldcubeassociation.org/) 
 
 </div>
