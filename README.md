@@ -71,14 +71,14 @@
 
 </div>
  
+
+
+
 <div align="center">
   <a href="https://www.buymeacoffee.com/duarch" target="_blank">
-    <img src="assets/coffee.png" alt="Buy me a spaceship" style="width: 20% ; background-color: #FFDD00;">
+    <img src="assets/buyme.png" alt="Buy me a spaceship" style="width: 60%">
   </a>
 </div>
-
-
-
 
 
 <img src="assets/metrics.svg" alt="Metrics" width="100%">
