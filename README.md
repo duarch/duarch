@@ -61,9 +61,6 @@
 <a href="https://dev.to/duarch">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="André Duarte's DEV Profile" height="30" width="30"></a></div>
    
-
-
-
 ### Now I'm ...
 
 - :books: Currently studing Javascript on [FCC](https://www.freecodecamp.org/duarch)
@@ -73,12 +70,9 @@
 - :ice_cube: Fun fact: I'm a [cuber](https://www.worldcubeassociation.org/) 
 
 </div>
-
- 
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/duarch?cardType=github&theme=solarized-dark)](https://git.io/awesome-stats-card)
  
 <div align="center">
 <a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="assets/coffee.png" alt="Buy Me A Coffee" style="width=20%"></a>
  </div>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="assets/github-metrics.svg" alt="Metrics" width="100%">
