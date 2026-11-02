@@ -72,7 +72,13 @@
 </div>
  
 <div align="center">
-<a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="assets/coffee.png" alt="Buy Me A Coffee" style="width=20%"></a>
- </div>
+  <a href="https://www.buymeacoffee.com/duarch" target="_blank">
+    <img src="assets/coffee.png" alt="Buy me a spaceship" style="width: 20% ; background-color: #FFDD00;">
+  </a>
+</div>
+
+
+
+
 
 <img src="assets/metrics.svg" alt="Metrics" width="100%">
