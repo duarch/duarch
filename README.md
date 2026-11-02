@@ -80,3 +80,5 @@
 <div align="center">
 <a href="https://www.buymeacoffee.com/duarch" target="_blank"><img src="assets/coffee.png" alt="Buy Me A Coffee" style="width=20%"></a>
  </div>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
