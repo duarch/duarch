@@ -1,6 +1,6 @@
 <!-- <div align="center"> -->
 <!-- <a href="https://duar.ch" target="_blank"></h1><img src="assets/duarch.jpg" alt="heropic"></a> </div> -->
-<a href="https://duar.ch" target="_blank"><img src="https://user-images.githubusercontent.com/42032253/185812906-9ba5ace5-dbe0-45e2-ac57-7e374a5cf781.png" alt="ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ" style="width=20%"></a>
+<a href="https://duar.ch" target="_blank"><img src="assets/sembg0.png" alt="ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ" style="width=20%"></a>
 
 
 
