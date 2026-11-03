@@ -2,8 +2,6 @@
 <!-- <a href="https://duar.ch" target="_blank"></h1><img src="assets/duarch.jpg" alt="heropic"></a> </div> -->
 <a href="https://duar.ch" target="_blank"><img src="assets/nobackground.png" alt="ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ" style="width=20%"></a>
 
-
-
 <!--  ᕲᘱᐅᑓᘮᕰᐁᑌᕱᐃᗋᗩᖇᘓᘳᑕᕳᕼ-->
 
 <!-- <h1 align="center">ᑓ ᑌ ᗩ ᖇ.ᘓ ᕼ</h1> -->
@@ -13,10 +11,9 @@
 
 <!-- Letras disponíveis em https://en.wiktionary.org/wiki/Appendix:Unicode/Unified_Canadian_Aboriginal_Syllabics -->
 
-<!-- Sempre fico na dúvida entre essa duas opções ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ e ᕲ ᑌ ᗩ ᖇ.ᑕ ᕼ  -->
+
 
 <link rel="stylesheet" href="style.css"/>
-<!-- <h1 align="center"><a href="https://duar.ch" target="_blank"> ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ </a></h1> -->
  
 <!--rel="noreferrer noopener"-->
 <!-- Inspired on choo here https://github.com/choojs/choo -->
@@ -66,8 +63,6 @@
 
 </div>
  
-
-
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/duarch" target="_blank">
