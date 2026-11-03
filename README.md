@@ -1,6 +1,6 @@
 <!-- <div align="center"> -->
 <!-- <a href="https://duar.ch" target="_blank"></h1><img src="assets/duarch.jpg" alt="heropic"></a> </div> -->
-<a href="https://duar.ch" target="_blank"><img src="assets/sembg0.png" alt="ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ" style="width=20%"></a>
+<a href="https://duar.ch" target="_blank"><img src="assets/nobackground.png" alt="ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ" style="width=20%"></a>
 
 
 
@@ -19,11 +19,6 @@
 <!-- <h1 align="center"><a href="https://duar.ch" target="_blank"> ᕲ ᕰ ᕱ ᖇ.ᕳ ᕼ </a></h1> -->
  
 <!--rel="noreferrer noopener"-->
-<!-- <h1 align="center"> ᗪ ᑌ ᗩ ᖇ.ᑕ ᕼ </h1> -->
-<!-- <h1 align="center"> 𝕯 𝖀 ᗩ ᖇ.ᑕ ᕼ </h1> -->
-<!-- <h1 align="center"> 🅳 🆄 ᗩ ᖇ.ᑕ ᕼ </h1> -->
-<!-- <h1 align="center"> 🅳 🆄 𝔸 ℝ.ℂ ℍ </h1> -->
-<!-- <h1 align="center"> ◗ ☋ ꍏ ☈ ☾ ♄ </h1> -->
 <!-- Inspired on choo here https://github.com/choojs/choo -->
 <div align="center">
   :steam_locomotive::train::train::train::train::train:
