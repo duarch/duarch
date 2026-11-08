@@ -55,11 +55,11 @@
    
 ### Now I'm ...
 
-- :books: Currently studing Javascript on [FCC](https://www.freecodecamp.org/duarch)
-- :octocat: Collaborating on [GO](https://golang.org/) projects
-- :moyai: Struggling with [Vim](https://www.vim.org/)
-- :shipit: How to reach me [reach me](https://www.linkedin.com/in/andreduarte/) 
-- :ice_cube: Fun fact: I'm a [cuber](https://www.worldcubeassociation.org/) 
+- 📚 Currently studing Angular on [Udemy](https://www.udemy.com/share/101WgA3@QfqVDULBepQq5oaDgtlfXHYGYWQqoWLCn1qOSL9fxthSBDWZjz46S5l2_4pyT4PD/)
+- 📱 Launching my first app on stores the [Persiga](https://persiga.duar.ch) game.
+- 🦜 Struggling with my theme [Canindé](https://caninde.duar.ch)
+- 🪪 How to reach me [Portfolio](https://duar.ch) 
+- 🪄 Fun fact: I'm a [cuber](https://www.worldcubeassociation.org/) 
 
 </div>
  
